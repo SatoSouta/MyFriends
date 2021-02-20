@@ -178,5 +178,11 @@
         "avatar": "jokerm.com.jpg",
         "description" :"Take your heart",
         "url": "https://jokerm.com"
+    },
+    {
+        "name": "Xunflash的小站",
+        "avatar": "www.xunflash.top.jpg",
+        "description" :"真不戳，嘿嘿",
+        "url": "http://www.xunflash.top"
     }
 ]
