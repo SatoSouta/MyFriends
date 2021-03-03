@@ -184,5 +184,11 @@
         "avatar": "www.xunflash.top.jpg",
         "description" :"真不戳，嘿嘿",
         "url": "http://www.xunflash.top"
+    },
+    {
+        "name": "Mitt",
+        "avatar": "blog.mitt.fun.jpg",
+        "description": "Mitt's Fun space!",
+        "url": "https://blog.mitt.fun"
     }
 ]
