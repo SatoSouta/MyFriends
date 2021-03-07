@@ -20,7 +20,7 @@
 ```json
 {
     "name": "小太の游乐园",
-    "avatar": "https://gravatar.loli.net/avatar/ad5babe8213864d97007267d9e130291?s=640",
+    "avatar": "https://cdn.h-o-l-a.cn/images/me/kaojashin.png",
     "description" :"一个热爱ACG的技术宅",
     "url": "https://713.moe/"
 }
