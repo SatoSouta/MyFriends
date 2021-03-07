@@ -190,5 +190,11 @@
         "avatar": "blog.mitt.fun.jpg",
         "description": "Mitt's Fun space!",
         "url": "https://blog.mitt.fun"
+    },
+    {
+        "name": "qwqaq",
+        "avatar": "qwqaq.com.jpg",
+        "description": "生命不止，折腾不息 ( ゜- ゜)",
+        "url": "https://qwqaq.com"
     }
 ]
