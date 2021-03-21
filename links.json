@@ -190,5 +190,11 @@
         "avatar": "qwqaq.com.jpg",
         "description": "生命不止，折腾不息 ( ゜- ゜)",
         "url": "https://qwqaq.com"
+    },
+    {
+    "name": "Megghy's Blog",
+    "avatar": "https://oss.suki.club/head.png",
+    "description" :"生活晴朗, 万物可爱",
+    "url": "https://suki.club/"
     }
 ]
