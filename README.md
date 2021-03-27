@@ -21,7 +21,7 @@
 {
     "name": "小太の游乐园",
     "avatar": "https://cdn.h-o-l-a.cn/images/me/kaojashin.png",
-    "description" :"一个热爱ACG的技术宅",
+    "description" :"迪士尼在逃公主",
     "url": "https://713.moe/"
 }
 ```
@@ -33,6 +33,7 @@
 
 ### 如何交换友链
 
+- 目前停止接受新的申请（2020.03.27）
 - 在您的站点上添加上本站的相关信息（先友后链原则）
 - 在 GitHub 上 `Fork` 此仓库
 - 按照以上格式在 `links.json` 文件末尾新增你的信息（json写法请注意）
