@@ -34,5 +34,35 @@
         "avatar": "blog.xiaoleimu.cn.jpg",
         "description": "一只啥都不会的豆沙",
         "url": "http://blog.xiaoleimu.cn"
+    },
+    {
+        "name": "崇宫苟道",
+        "avatar": "lzh441.cn.jpg",
+        "description": "苟道鸽鸽～",
+        "url": "https://lzh441.cn"
+    },
+    {
+        "name": "MmCee-我的世界",
+        "avatar": "mmcee.cn.jpg",
+        "description": "我的世界热爱者",
+        "url": "https://mmcee.cn"
+    },
+    {
+        "name": "探索子",
+        "avatar": "beyondstars.xyz.jpg",
+        "description": "探索·思考·分享",
+        "url": "https://beyondstars.xyz"
+    },
+    {
+        "name": "Ghosin",
+        "avatar": "ghos.in.jpg",
+        "description": "某苟姓人士",
+        "url": "https://ghos.in"
+    },
+    {
+        "name": "一只科技菌",
+        "avatar": "blog.yzzi.top.jpg",
+        "description" :"我们一路奋战，不是为了改变世界，而是为了不让世界改变我们。",
+        "url": "https://blog.yzzi.top"
     }
 ]
