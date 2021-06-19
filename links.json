@@ -122,19 +122,19 @@
     {
         "name": "FindMyFUN",
         "avatar": "findmyfun.cn.jpg",
-        "description" :"My Life is a Beauty",
+        "description": "My Life is a Beauty",
         "url": "https://www.findmyfun.cn"
     },
     {
         "name": "JokerM's Palace",
         "avatar": "jokerm.com.jpg",
-        "description" :"Take your heart",
+        "description": "Take your heart",
         "url": "https://jokerm.com"
     },
     {
         "name": "Xunflash的小站",
         "avatar": "www.xunflash.top.jpg",
-        "description" :"真不戳，嘿嘿",
+        "description": "真不戳，嘿嘿",
         "url": "http://www.xunflash.top"
     },
     {
@@ -152,7 +152,13 @@
     {
         "name": "Megghy's Blog",
         "avatar": "suki.club.jpg",
-        "description" :"生活晴朗, 万物可爱",
+        "description": "生活晴朗, 万物可爱",
         "url": "https://suki.club/"
+    },
+    {
+        "name": "SomeBottle",
+        "avatar": "bottle.moe.jpg",
+        "description": "咸鱼，代码，视频，生活",
+        "url": "https://bottle.moe/"
     }
 ]
