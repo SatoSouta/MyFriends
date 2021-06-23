@@ -153,18 +153,30 @@
         "name": "Megghy's Blog",
         "avatar": "suki.club.jpg",
         "description": "生活晴朗, 万物可爱",
-        "url": "https://suki.club/"
+        "url": "https://suki.club"
     },
     {
         "name": "SomeBottle",
         "avatar": "bottle.moe.jpg",
         "description": "咸鱼，代码，视频，生活",
-        "url": "https://bottle.moe/"
+        "url": "https://bottle.moe"
     },
     {
         "name": "木皆之森",
         "avatar": "raobee.com.jpg",
         "description": "自闭社恐彩笔死宅的自娱自乐",
-        "url": "https://www.raobee.com/"
+        "url": "https://www.raobee.com"
+    },
+    {
+        "name": "ruan4261",
+        "avatar": "4261.ink.jpg",
+        "description": "Java萌新，喜欢和程序杠精",
+        "url": "https://4261.ink"
+    },
+    {
+        "name": "探索子",
+        "avatar": "exploro.one.jpg",
+        "description": "探索·思考·分享",
+        "url": "https://exploro.one"
     }
 ]
