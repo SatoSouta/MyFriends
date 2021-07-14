@@ -178,5 +178,11 @@
         "avatar": "exploro.one.jpg",
         "description": "探索·思考·分享",
         "url": "https://exploro.one"
+    },
+    {
+        "name": "豆沙の欢乐小屋",
+        "avatar": "blog.xiaoleimu.cn.jpg",
+        "description": "一只啥都不会的豆沙",
+        "url": "http://blog.xiaoleimu.cn"
     }
 ]
